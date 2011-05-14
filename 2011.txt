@@ -3,3 +3,4 @@
 Tanaka Akira, akr at fsij dot org
 Kenta Murata, mrkn at mrkn dot jp
 NARUSE Yui, naruse at airemix dot jp
+Yusuke Endoh, mame at tsg dot ne dot jp
