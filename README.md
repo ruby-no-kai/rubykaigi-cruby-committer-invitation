@@ -11,14 +11,14 @@ RubyKaigi Team would like to invite all 'CRuby' committers to RubyKaigi 2011.
 
 NOTE: If you are a speaker, you do not have to to contact us about this.
 
-WARNING: WE CANNOT COVER YOUR TRAVEL EXPENSE.
+**WARNING: WE CANNOT COVER YOUR TRAVEL EXPENSE.**
 
 ## How to accept our invitation.
 
-* fork this project (rubykaigi-cruby-committer-invitation).
-* add your name and email address to 2011.txt
-* please pull request to us.
+1. fork this project (rubykaigi-cruby-committer-invitation).
+2. add your name and email address to 2011.txt
+3. please pull request to us.
 
 ## Pull Request Deadline
 
-* June 15th 2011 (JST)
+* **June 15th 2011 (JST)**
