@@ -22,3 +22,12 @@ NOTE: If you are a speaker, you do not have to to contact us about this.
 ## Pull Request Deadline
 
 * **June 15th 2011 (JST)**
+
+## sorah contact information
+
+__Mail:__ `sorah at tubusu.net`
+
+__Name:__ Shota Fukumori a.k.a. `sora_h`
+
+
+
