@@ -1,1 +1,2 @@
 // please add your name and your email,then pull request.
+// (for example): Shintaro Kakutani, kakutani at rubykaigi dot org
