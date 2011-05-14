@@ -1,3 +1,4 @@
 // please add your name and your email,then pull request.
 // (for example): Shintaro Kakutani, kakutani at rubykaigi dot org
 Tanaka Akira, akr at fsij dot org
+Kenta Murata, mrkn at mrkn dot jp
