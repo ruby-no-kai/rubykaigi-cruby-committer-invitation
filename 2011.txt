@@ -6,3 +6,4 @@ NARUSE Yui, naruse at airemix dot jp
 KOSAKI Motohiro, kosaki.motohiro at gmail dot com
 CHIKANAGA Tomoyuki, nagachika00 at gmail dot com
 Yusuke Endoh, mame at tsg dot ne dot jp
+WATANABE Hirofumi, eban at os dot rim dot or dot jp
