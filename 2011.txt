@@ -14,3 +14,4 @@ NAKAMURA Usaku, usa at garbagecollect dot jp
 Hiroshi Nakamura, nahi at ruby-lang dot org
 Kentaro Goto, gotoken at notwork dot org
 Yugui Sonoda, yugui at yugui dot jp
+Akio Tajima, artonx at yahoo dot co dot jp
