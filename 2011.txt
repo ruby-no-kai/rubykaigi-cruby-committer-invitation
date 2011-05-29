@@ -14,3 +14,5 @@ Hiroshi Nakamura, nahi at ruby-lang dot org
 Kentaro Goto, gotoken at notwork dot org
 Yugui Sonoda, yugui at yugui dot jp
 Akio Tajima, artonx at yahoo dot co dot jp
+Martin Duerst, duerst at it dot aoyama dot ac dot jp
+
