@@ -15,4 +15,5 @@ Kentaro Goto, gotoken at notwork dot org
 Yugui Sonoda, yugui at yugui dot jp
 Akio Tajima, artonx at yahoo dot co dot jp
 Martin Dürst, duerst at it dot aoyama dot ac dot jp
+TAKANO Mitsuhiro, takano32 at gmail dot com
 
