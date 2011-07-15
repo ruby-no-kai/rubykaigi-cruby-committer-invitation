@@ -17,4 +17,4 @@ Akio Tajima, artonx at yahoo dot co dot jp
 Martin Dürst, duerst at it dot aoyama dot ac dot jp
 TAKANO Mitsuhiro, takano32 at gmail dot com
 Akinori MUSHA, akinori at musha dot org
-
+Nobuyoshi Nakada, nobu at ruby-lang dot org
